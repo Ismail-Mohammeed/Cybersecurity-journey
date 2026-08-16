@@ -7,6 +7,7 @@ My learning notes and practical observations while studying Broken Access Contro
 - What Broken Access Control means
 - Horizontal vs Vertical Privilege Escalation
 - IDOR
+- XSS
 - Authorization vs Authentication
 - How to identify access control issues
 - Practical testing methodology
